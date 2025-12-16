@@ -7,6 +7,23 @@ This project analyzes employee workforce data to understand:
 - Department-wise analysis
 - Job satisfaction & work-life balance
 - Overtime impact on attrition
+# HR Workforce Analytics Dashboard (Power BI)
+
+## Overview
+This project analyzes employee attrition and workforce metrics using Power BI.
+
+## Key Insights
+- Total Employees
+- Attrition Count & Percentage
+- Attrition by Job Role
+- Gender Distribution
+- Overtime Analysis
+- Work-Life Balance Impact
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
 
 ## 📊 Tools Used
 - Power BI
